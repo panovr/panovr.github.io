@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example Maven pom.xml for Java application
-date:   2020-02-24 16:00:00
+date:   2020-02-25 20:50:00
 categories: Java
 ---
 
