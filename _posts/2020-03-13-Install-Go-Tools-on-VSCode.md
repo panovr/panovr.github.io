@@ -15,7 +15,30 @@ git clone https://github.com/golang/mod.git
 git clone https://github.com/golang/xerrors
 ```
 
-First try:
+If all goes well, you should see the output:
+```
+go.toolsGopath setting is not set. Using GOPATH /home/ylzhao/go
+Installing 7 tools at /home/ylzhao/go/bin in module mode.
+  gocode
+  gopkgs
+  go-outline
+  gocode-gomod
+  godef
+  goimports
+  golint
+
+Installing github.com/mdempsky/gocode SUCCEEDED
+Installing github.com/uudashr/gopkgs/v2/cmd/gopkgs SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline SUCCEEDED
+Installing github.com/stamblerre/gocode SUCCEEDED
+Installing github.com/rogpeppe/godef SUCCEEDED
+Installing golang.org/x/tools/cmd/goimports SUCCEEDED
+Installing golang.org/x/lint/golint SUCCEEDED
+
+All tools successfully installed. You are ready to Go :).
+```
+
+Otherwise, for example, if go-diff install failed, first try:
 ```
 go get -u github.com/sergi/go-diff/...
 
