@@ -2,7 +2,7 @@
 layout: post
 title: Install Go Tools on VSCode
 date:   2020-03-13 11:06:00
-categories: Java
+categories: Go
 ---
 
 ## Install Go Tools on VSCode
