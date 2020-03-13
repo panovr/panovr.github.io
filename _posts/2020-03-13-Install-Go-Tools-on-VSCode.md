@@ -41,7 +41,6 @@ All tools successfully installed. You are ready to Go :).
 Otherwise, for example, if go-diff install failed, first try:
 ```
 go get -u github.com/sergi/go-diff/...
-
 ```
 
 If that failed, then try:
