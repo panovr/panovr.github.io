@@ -62,3 +62,11 @@ cd %GOPATH%\src\github.com\ramya-rao-a
 git clone https://github.com/ramya-rao-a/go-outline.git
 go install github.com/ramya-rao-a/go-outline
 ```
+Next, try a tour of go:
+```
+https://tour.golang.org/
+https://tour.go-zh.org/
+
+Or install it offline:
+go get golang.org/x/tour
+```
