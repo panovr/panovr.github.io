@@ -11,4 +11,5 @@ categories: Go
 Enter %GOPATH%\src\，and create golang.org\x directory
 cd %GOPATH%\src\golang.org\x
 git clone https://github.com/golang/tools.git tools
+git clone https://github.com/golang/mod.git mod
 ```
