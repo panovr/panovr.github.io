@@ -13,6 +13,7 @@ Next, try a tour of go:
 ```
 https://tour.golang.org/
 https://tour.go-zh.org/
+```
 
 Or install it offline:
 ```
