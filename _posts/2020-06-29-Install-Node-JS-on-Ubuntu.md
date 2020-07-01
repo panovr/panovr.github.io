@@ -18,4 +18,4 @@ node --version
 npm --version
 ```
 
-![node.js](/assets/nodejs.png);
+![node.js](/assets/nodejs.png)

@@ -16,3 +16,5 @@ sudo apt-get install oracle-java14-installer
 ```
 
 After install, log out and log in to take it in effect.
+
+![jdk14](/assets/jdk14.png)
