@@ -17,3 +17,5 @@ sudo apt-get install gcc g++ make
 node --version
 npm --version
 ```
+
+![node.js](/assets/nodejs.png);
