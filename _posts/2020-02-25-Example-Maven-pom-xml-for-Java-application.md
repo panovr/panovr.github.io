@@ -31,7 +31,7 @@ This is an example Maven pom.xml for building Java application with Oracle JDK14
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
-                <version>3.8.1</version>
+                <version>3.2.0</version>
                 <configuration>
                     <archive>
                         <manifest>
