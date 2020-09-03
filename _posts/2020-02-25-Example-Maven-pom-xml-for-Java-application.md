@@ -7,7 +7,7 @@ categories: Java Maven
 
 ## Example Maven pom.xml for Java application
 
-This is an example Maven pom.xml for building Java application with Oracle JDK13:
+This is an example Maven pom.xml for building Java application with Oracle JDK14:
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -22,8 +22,8 @@ This is an example Maven pom.xml for building Java application with Oracle JDK13
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>13</maven.compiler.source>
-        <maven.compiler.target>13</maven.compiler.target>
+        <maven.compiler.source>14</maven.compiler.source>
+        <maven.compiler.target>14</maven.compiler.target>
     </properties>
 
     <build>
